@@ -195,6 +195,11 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+.list-group-subcategory {
+  font-weight: bold;
+  padding-top: 6px;
+  color: #444;
+}
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;
