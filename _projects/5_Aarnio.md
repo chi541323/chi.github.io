@@ -5,7 +5,7 @@ description: A standard office chair prototype providing foreground haptic force
 img: assets/img/Aarnio/Aarnio_30.gif
 importance: 5
 category: Human-Computer Interactions
-paper: ACM CHI 19
+paper: ACM CHI 18
 ---
 
 Every project has a beautiful feature showcase page.

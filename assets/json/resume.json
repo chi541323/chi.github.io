@@ -60,7 +60,54 @@
       "endDate": "2015"
     }
   ],
-  "publications": [
+  // "publications": [
+  //   {
+  //     "name": "Gaiters: Exploring Skin Stretch Feedback on Legs for Enhancing Virtual Reality Experiences",
+  //     "publisher": "<span style='font-weight:900;'>Chi Wang</span>, Da-Yuan Huang, Shuo-Wen Hsu, Cheng-Lung Lin, Yeu-Luen Chiu, Chu-En Hou, Bing-Yu Chen",
+  //     "releaseDate": "ACM CHI 20",
+  //     "list": 5,
+  //     "url": "https://dl.acm.org/doi/10.1145/3313831.3376865",
+  //     "pdf": "/assets/papers/Gaiters.pdf",
+  //     "summary": "Developed Gaiters, leg-worn devices that generate 2D skin stretch feedback to simulate virtual textures and directional cues. Conducted studies on perceivable stretch and evaluated user experiences. Results show rich and enjoyable haptic feedback on the lower limbs in VR."
+  //   },
+  //   {
+  //     "name": "ElastiLinks: Force Feedback between VR Controllers with Dynamic Points of Application of Force",
+  //     "publisher": "Tzu-Yun Wei, Hsin-Ruey Tsai, Yu-So Liao, Chieh Tsai, Yi-Shan Chen, <span style='font-weight:900;'>Chi Wang</span>, Bing-Yu Chen",
+  //     "releaseDate": "ACM UIST 20",
+  //     "list": 4,
+  //     "url": "https://dl.acm.org/doi/10.1145/3379337.3415836",
+  //     "pdf": "/assets/papers/ElastiLink.pdf",
+  //     "summary": "Developed ElastiLinks, handheld VR controllers that provide force feedback with dynamic points of application (PAFs) using rotatable tracks. Conducted perception studies on resistive and impact forces, as well as PAF offsets and rotations. Results show that dynamic PAFs enhance realism and user experience in VR."
+  //   },
+  //   {
+  //     "name": "Masque: Exploring Lateral Skin Stretch Feedback on the Face with Head-Mounted Displays",
+  //     "publisher": "<span style='font-weight:900;'>Chi Wang</span>, Da-Yuan Huang, Shuo-Wen Hsu, Chu-En Hou, Yeu-Luen Chiu, Ruei-Che Chang, Jo-Yu Lo, Bing-Yu Chen",
+  //     "releaseDate": "ACM UIST 19",
+  //     "list": 3,
+  //     "url": "https://dl.acm.org/doi/10.1145/3332165.3347898",
+  //     "pdf": "/assets/papers/Masque.pdf",
+  //     "summary": "Developed Masque, an HMD prototype with six skin stretch modules providing 2D haptic feedback on the face. Conducted studies on shear tactor design, comfort, and perceivable stretch distances and angles. Results show Masque enhances VR experiences and is well-received by users as a novel HMD feedback modality."
+  //   },
+  //   {
+  //     "name": "Aarnio: Passive Kinesthetic Force Output for Foreground Interactions on an Interactive Chair",
+  //     "publisher": "Shan-Yuan Teng, Da-Yuan Huang, <span style='font-weight:900;'>Chi Wang</span>, Jun Gong, Teddy Seyed, Xing-Dong Yang, Bing-Yu Chen",
+  //     "releaseDate": "ACM CHI 19",
+  //     "list": 2,
+  //     "url": "https://dl.acm.org/doi/10.1145/3290605.3300902",
+  //     "pdf": "/assets/papers/Aarnio.pdf",
+  //     "summary": "Developed Aarnio, a standard office chair prototype providing foreground haptic force output, modulating resistive forces when rotating, tilting, or rolling the chair. Conducted studies to determine recognizability of five force profiles. Results demonstrate novel interaction techniques for immersive VR and ubiquitous computing environments."
+  //   },
+  //   {
+  //     "name": "PuPoP: Pop-up Prop on Palm for Virtual Reality",
+  //     "publisher": "Shan-Yuan Teng, Tzu-Sheng Kuo, <span style='font-weight:900;'>Chi Wang</span>, Chi-huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen",
+  //     "releaseDate": "ACM UIST 18",
+  //     "list": 1,
+  //     "url": "https://dl.acm.org/doi/10.1145/3242587.3242628",
+  //     "pdf": "/assets/papers/Pupop.pdf",
+  //     "summary": "Developed PuPoP, a lightweight pneumatic palm interface that pops airbags with predefined shapes to simulate grasping virtual objects. Conducted user studies on shape perception and VR interaction. Results show that dynamic PuPoP enhances realism and enjoyment in VR object manipulation."
+  //   }
+  // ],
+  "projects": [
     {
       "name": "Gaiters: Exploring Skin Stretch Feedback on Legs for Enhancing Virtual Reality Experiences",
       "publisher": "<span style='font-weight:900;'>Chi Wang</span>, Da-Yuan Huang, Shuo-Wen Hsu, Cheng-Lung Lin, Yeu-Luen Chiu, Chu-En Hou, Bing-Yu Chen",
@@ -105,16 +152,6 @@
       "url": "https://dl.acm.org/doi/10.1145/3242587.3242628",
       "pdf": "/assets/papers/Pupop.pdf",
       "summary": "Developed PuPoP, a lightweight pneumatic palm interface that pops airbags with predefined shapes to simulate grasping virtual objects. Conducted user studies on shape perception and VR interaction. Results show that dynamic PuPoP enhances realism and enjoyment in VR object manipulation."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ],
   "skills": [

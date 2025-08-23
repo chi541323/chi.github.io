@@ -223,3 +223,9 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+.btn.btn-custom {
+  color: var(--global-card-bg-color) !important;
+  background-color: var(--global-theme-color) !important;
+  border: none;
+}
