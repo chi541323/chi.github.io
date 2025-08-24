@@ -9,9 +9,8 @@ profile:
   image: pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>chi541323@gmail.com</p>
-    <p></p>
-    <p>Taiwan</p>
+    <p class="icon-text"><i class="fa-solid fa-envelope"></i> chi541323@gmail.com</p>
+    <p class="icon-text" style="margin-left: 3px"><i class="fa-solid fa-location-dot"></i> Taiwan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
